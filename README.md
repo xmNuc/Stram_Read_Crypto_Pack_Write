@@ -24,3 +24,4 @@ node streamdecrypt.js inputfile outputfile password
 constant.js just holding salt for encryption.
 
 Jakub D
+https://www.youtube.com/channel/UCtnIjUpe2EVZbH26p20obnA
